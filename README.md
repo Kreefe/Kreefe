@@ -14,7 +14,6 @@
     I'm a Developer & Designer from Russia.
     <br>
     <br>
-    <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>
   </samp>
   
   <br>
