@@ -9,9 +9,9 @@
   <br>
   
   <samp>
-    <i>Hey!</i> I'm <b>Kirills</b>.
+    <i>Hey!</i> I'm <b>Kreefe</b>.
     <br> 
-    I'm a Developer & Designer from Latvia.
+    I'm a Developer & Designer from Russia.
     <br>
     <br>
     <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>
